@@ -8,7 +8,8 @@
 ![GNS3](https://img.shields.io/badge/GNS3-Lab-green?style=for-the-badge)
 ![IPv4](https://img.shields.io/badge/IPv4-Static_Routing-success?style=for-the-badge)
 
-<img src="banner.png" width="100%">
+<img width="1536" height="1024" alt="7767bddb-01ec-4bad-b087-e5cebf4b436e" src="https://github.com/user-attachments/assets/0e0fcb32-0465-4ad4-837d-2a9a9afd0484" />
+
 
 ### 📖 A Cisco CCNA lab demonstrating Static Routing between five routers with full end-to-end connectivity.
 
@@ -42,7 +43,7 @@ The objective is to establish communication between all routers by manually conf
 
 <p align="center">
 
-<img src="topology.png" width="900">
+<img width="1115" height="697" alt="Screenshot 2026-06-28 130809" src="https://github.com/user-attachments/assets/19d56b4b-4647-4d22-bb6e-08da6a06f5d5" />
 
 </p>
 
@@ -79,12 +80,7 @@ CCNA-Static-Routing-Lab
 │
 ├── gns3
 │   └── Static-Routing-Lab.gns3
-│
-└── screenshots
-    ├── ping-success.png
-    ├── traceroute.png
-    ├── show-ip-route.png
-    └── interfaces.png
+
 ```
 
 ---
