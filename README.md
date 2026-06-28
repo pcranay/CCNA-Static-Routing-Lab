@@ -39,7 +39,7 @@ The objective is to establish communication between all routers by manually conf
 
 # 🖥️ Network Topology
 
-> Replace the image below with your own topology.
+> Topology
 
 <p align="center">
 
@@ -154,41 +154,6 @@ traceroute
 - IPv4
 - Static Routing
 - Cisco CLI
-
----
-
-# 🚀 Future Improvements
-
-- OSPF Single Area
-- Multi-Area OSPF
-- VLANs
-- Inter-VLAN Routing
-- ACL Implementation
-- NAT/PAT
-- DHCP Configuration
-- HSRP
-- EIGRP
-- BGP (Advanced)
-
----
-
-# 📸 Screenshots
-
-### Routing Table
-
-<img src="screenshots/show-ip-route.png">
-
----
-
-### Successful Ping
-
-<img src="screenshots/ping-success.png">
-
----
-
-### Traceroute
-
-<img src="screenshots/traceroute.png">
 
 ---
 
